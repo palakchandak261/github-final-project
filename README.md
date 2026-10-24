@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# github-final-project
 
 A small Bash project that calculates **simple interest** from user input: principal, rate of interest, and time period.
 
